@@ -1,3 +1,7 @@
+/**
+  *@file Sapos.cpp
+  *@brief funcao com a implementacao dos nós, que são os jogadores(que são identificados com a identidade)
+  */
 #include "Sapos.h"
 
 Sapos::~Sapos(){

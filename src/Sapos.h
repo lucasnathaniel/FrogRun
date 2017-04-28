@@ -1,3 +1,8 @@
+/**
+  *@file Sapos.h
+  *@brief arquivo com as declaracoes das funcoes da classe Sapos
+  */
+
 #ifndef __SAPOS_H__
 #define __SAPOS_H__
 

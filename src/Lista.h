@@ -1,3 +1,8 @@
+/**
+  *@file Lista.h
+  *@brief arquivo com as declaracoes das funcoes da Lista
+  */
+
 #ifndef __LISTA_H__
 #define __LISTA_H__
 

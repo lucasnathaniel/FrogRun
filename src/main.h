@@ -1,3 +1,7 @@
+/**
+  *@file main.h
+  */
+
 #include <iostream>
 #include "Sapos.h"
 #include "Lista.h"
